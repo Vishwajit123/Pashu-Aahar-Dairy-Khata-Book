@@ -1,0 +1,61 @@
+# ==========================================
+# Build Artifacts & Dependencies
+# ==========================================
+target/
+**/target/
+out/
+**/out/
+bin/
+**/bin/
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+dist-ssr/
+*.class
+*.jar
+*.war
+
+# ==========================================
+# Environment Variables & Secrets
+# ==========================================
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# ==========================================
+# IDE & Editor Files
+# ==========================================
+.idea/
+**/.idea/
+*.iml
+**/*.iml
+.vscode/
+**/.vscode/
+.kotlin
+
+# Eclipse
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# NetBeans
+nbproject/
+nbbuild/
+nbdist/
+
+# ==========================================
+# Logs & System Files
+# ==========================================
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+Thumbs.db

@@ -1,0 +1,12 @@
+{
+  "name": "expense-tracker-fullstack",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pashu Aahar & Dairy Ledger - Full Stack Application",
+  "scripts": {
+    "start": "run-all.bat",
+    "dev": "run-all.bat",
+    "backend": "run-backend.bat",
+    "frontend": "run-frontend.bat"
+  }
+}

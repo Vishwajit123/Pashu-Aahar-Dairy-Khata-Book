@@ -1,0 +1,6 @@
+1|bat|playing cricket|2000.00|2026-09-04|sports|cash
+2|Ball|Playing for Cricket|200.00|2026-09-04|sports|online
+3|Banana|For Eating purpose|300.00|2026-09-04|food|cash
+4|Laptop Sleeve|Protective case for laptop|45.50|2026-10-02|Shopping|Credit Card
+5|Samosa|Samosa is the delicious|10.00|2026-10-02|Food|UPI
+6|Shoes||1000.00|2026-10-02|Shopping|Credit Card
